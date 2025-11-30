@@ -1,0 +1,112 @@
+{
+    "count": 1182,
+    "next": "https://thesimpsonsapi.com/api/characters?page=2",
+    "prev": null,
+    "pages": 60,
+    "results": [
+        {
+            "id": 1,
+            "age": 39,
+            "birthdate": "1956-05-12",
+            "gender": "Male",
+            "name": "Homer Simpson",
+            "occupation": "Safety Inspector",
+            "portrait_path": "1",
+            "phrases": [
+                "Doh!",
+                "Why you little...!",
+                "Woo-hoo!",
+                "Mmm... (food)... *drooling*",
+                "Stupid Flanders!",
+                "Shut up Flanders!",
+                "AAAAGHH!",
+                "Lisa, knock off that racket!",
+                "Uh oh, the boss.",
+                "Lets all go out for frosty chocolate milkshakes!",
+                "Whatever, Ill be at Moes.",
+                "I am evil Ho-mer! I am evil Ho-mer! I am evil Ho-mer!",
+                "Better them than me.",
+                "Better them than me... Oh wait, that was me.",
+                "Marge, my face hurts again!"
+            ],
+            "status": "Alive"
+        },
+        {
+            "id": 2,
+            "age": 39,
+            "birthdate": "",
+            "gender": "Female",
+            "name": "Marge Simpson",
+            "occupation": "Unemployed",
+            "portrait_path": "2",
+            "phrases": [
+                "Hrmmm...",
+                "Now its Marges time to shine!",
+                "Oh!",
+                "Oh, Homie!",
+                "Its true. Women arent very good drivers."
+            ],
+            "status": "Alive"
+        },
+        {
+            "id": 3,
+            "age": 10,
+            "birthdate": "1980-02-23",
+            "gender": "Male",
+            "name": "Bart Simpson",
+            "occupation": "Student at Springfield Elementary School",
+            "portrait_path": "3",
+            "phrases": [
+                "¡Ay Caramba!",
+                "Eat my shorts!",
+                "I didnt do it!",
+                "Dont have a cow, man.",
+                "I’m Bart Simpson, who the hell are you?",
+                "Aah! Sideshow Bob!",
+                "Nobody better lay a finger on my Butterfinger!",
+                "I didnt think it was physically possible, but this both sucks and blows."
+            ],
+            "status": "Alive"
+        },
+        {
+            "id": 4,
+            "age": 8,
+            "birthdate": "1982-05-09",
+            "gender": "Female",
+            "name": "Lisa Simpson",
+            "occupation": "Student at Springfield Elementary School, CTU Agent, Hall-monitor, Member of PETA",
+            "portrait_path": "4",
+            "phrases": [
+                "Well, I wish you wouldnt. Because, aside from the fact that he has the same frailties as all human beings, hes the only father I have. Therefore, he is my model of manhood, and my estimation of him will govern the prospects of my adult relationships. So I hope you bear in mind that any knock at him is a knock at me. And I am far too young to defend myself against such onslaughts.",
+                "Bart!",
+                "If anyone wants me, Ill be in my room.",
+                "Quit it, Bart!",
+                "BAAAAART!!",
+                "Mommy.",
+                "David Hasselhoff.",
+                "Homer.",
+                "Having never received encouragement, Im not sure how it should sound, but here goes: I believe in you.",
+                "Shut up, Meg.",
+                "The truth must be told.",
+                "I hope these are recyclable.",
+                "Yeah, Bart!"
+            ],
+            "status": "Alive"
+        },
+        {
+            "id": 5,
+            "age": 1,
+            "birthdate": "1990-11-07",
+            "gender": "Female",
+            "name": "Maggie Simpson",
+            "occupation": "Unknown",
+            "portrait_path": "5",
+            "phrases": [
+                "*suck-suck*",
+                "Good night.",
+                "Daddy."
+            ],
+            "status": "Alive"
+        }
+    ]
+}
